@@ -1,0 +1,281 @@
+{
+  "overview": {
+    "total_ads": 583,
+    "brands_tracked": 21,
+    "categories_tracked": 3,
+    "avg_ad_age_days": 72.5,
+    "top_format": "carousel",
+    "top_theme": "parenting pain point",
+    "opportunity_meter": 0.0
+  },
+  "creative_trends": [
+    "Carousel is carrying the category, accounting for 48.0% of known-format ads.",
+    "In Baby care, video leads with 49.2% share.",
+    "In Men's wellness, video leads with 44.9% share.",
+    "In Women's wellness, carousel leads with 55.3% share.",
+    "The market's favourite combo is 'other / unclassified' delivered through carousel creatives."
+  ],
+  "longevity_signals": [
+    "43.4% of tracked ads have survived 30+ days; 25.0% have made it past 60 days.",
+    "Among 60+ day holdouts, video is the keeper format — useful if you care about survival, not novelty theatre.",
+    "The longest-running message cluster is 'other / unclassified', which suggests budget is sticking to that story."
+  ],
+  "format_shifts": [
+    "Format mix is fairly stable. The category may be tweaking scripts more than changing containers."
+  ],
+  "message_saturation": [
+    "'parenting pain point' is overcrowded, showing up in 16.7% of theme mentions. Parents are being sold reassurance more than education — still an open lane.",
+    "'discount / offer' is overcrowded, showing up in 10.3% of theme mentions. The category is leaning on price like it forgot how persuasion works."
+  ],
+  "strategic_insights": [
+    "Power Gummies is currently the category bully with a War Score of 67.0. Audit it before your next brief acts surprised.",
+    "Slurrp Farm is leaning hardest on one message pillar, which is great for recall and dangerous for boredom."
+  ],
+  "gap_detection": [],
+  "category_roasts": {
+    "Baby care": "Warm, safe, trustworthy — and often visually interchangeable. 'other / unclassified' is doing more of the work than it should.",
+    "Men's wellness": "Video heavy, proof hungry, and still over-indexing on 'other / unclassified'. Half clinic, half insecurity, not enough originality.",
+    "Women's wellness": "Polished and credible, but 'other / unclassified' is showing up so often the category is starting to sound harmonised by committee."
+  },
+  "monday_actions": [
+    {
+      "priority": "P1",
+      "title": "Stop playing discount karaoke",
+      "copy": "Too much of the market is flirting with coupons. Win with story and proof, not another sale sticker."
+    },
+    {
+      "priority": "P2",
+      "title": "Reverse-engineer Power Gummies",
+      "copy": "It leads on War Score today. Steal the pattern, not the headline."
+    }
+  ],
+  "brand_scores": [
+    {
+      "brand": "Power Gummies",
+      "activity": 11,
+      "diversity": 3,
+      "survival": 886.0,
+      "theme_diversity": 7,
+      "repetition": 42.857142857142854,
+      "opportunity": 57.142857142857146,
+      "war_score": 67.0
+    },
+    {
+      "brand": "BabyOrgano",
+      "activity": 30,
+      "diversity": 3,
+      "survival": 12.1,
+      "theme_diversity": 8,
+      "repetition": 47.61904761904761,
+      "opportunity": 52.38095238095239,
+      "war_score": 66.9
+    },
+    {
+      "brand": "Neuherbs",
+      "activity": 30,
+      "diversity": 3,
+      "survival": 60.0,
+      "theme_diversity": 7,
+      "repetition": 63.888888888888886,
+      "opportunity": 36.111111111111114,
+      "war_score": 65.0
+    },
+    {
+      "brand": "HK Vitals",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 99.93333333333334,
+      "theme_diversity": 10,
+      "repetition": 45.83333333333333,
+      "opportunity": 54.16666666666667,
+      "war_score": 63.0
+    },
+    {
+      "brand": "Kapiva",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 174.73333333333332,
+      "theme_diversity": 7,
+      "repetition": 27.27272727272727,
+      "opportunity": 72.72727272727273,
+      "war_score": 62.0
+    },
+    {
+      "brand": "Sebamed India",
+      "activity": 30,
+      "diversity": 3,
+      "survival": 17.966666666666665,
+      "theme_diversity": 5,
+      "repetition": 53.84615384615385,
+      "opportunity": 46.15384615384615,
+      "war_score": 61.5
+    },
+    {
+      "brand": "ForMen Health",
+      "activity": 30,
+      "diversity": 3,
+      "survival": 41.96666666666667,
+      "theme_diversity": 5,
+      "repetition": 62.857142857142854,
+      "opportunity": 37.142857142857146,
+      "war_score": 61.3
+    },
+    {
+      "brand": "Gynoveda",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 108.06666666666666,
+      "theme_diversity": 6,
+      "repetition": 29.411764705882355,
+      "opportunity": 70.58823529411765,
+      "war_score": 58.2
+    },
+    {
+      "brand": "Softsens Baby",
+      "activity": 26,
+      "diversity": 3,
+      "survival": 13.884615384615385,
+      "theme_diversity": 3,
+      "repetition": 35.294117647058826,
+      "opportunity": 64.70588235294117,
+      "war_score": 54.9
+    },
+    {
+      "brand": "Nua",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 32.3,
+      "theme_diversity": 6,
+      "repetition": 44.73684210526316,
+      "opportunity": 55.26315789473684,
+      "war_score": 54.5
+    },
+    {
+      "brand": "Pee Safe",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 142.23333333333332,
+      "theme_diversity": 5,
+      "repetition": 64.70588235294117,
+      "opportunity": 35.294117647058826,
+      "war_score": 53.9
+    },
+    {
+      "brand": "Carbamide Forte",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 18.866666666666667,
+      "theme_diversity": 7,
+      "repetition": 71.42857142857143,
+      "opportunity": 28.57142857142857,
+      "war_score": 53.1
+    },
+    {
+      "brand": "Chicco India",
+      "activity": 30,
+      "diversity": 3,
+      "survival": 10.9,
+      "theme_diversity": 2,
+      "repetition": 96.66666666666667,
+      "opportunity": 3.3333333333333286,
+      "war_score": 52.0
+    },
+    {
+      "brand": "Mamaearth Baby",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 34.86666666666667,
+      "theme_diversity": 5,
+      "repetition": 60.0,
+      "opportunity": 40.0,
+      "war_score": 51.4
+    },
+    {
+      "brand": "Traya",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 34.666666666666664,
+      "theme_diversity": 4,
+      "repetition": 72.22222222222221,
+      "opportunity": 27.777777777777786,
+      "war_score": 48.5
+    },
+    {
+      "brand": "Johnson's Baby India",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 17.6,
+      "theme_diversity": 4,
+      "repetition": 73.17073170731707,
+      "opportunity": 26.829268292682926,
+      "war_score": 47.9
+    },
+    {
+      "brand": "Mother Sparsh",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 67.63333333333334,
+      "theme_diversity": 3,
+      "repetition": 80.64516129032258,
+      "opportunity": 19.354838709677423,
+      "war_score": 46.9
+    },
+    {
+      "brand": "Himalaya BabyCare",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 15.366666666666667,
+      "theme_diversity": 2,
+      "repetition": 76.66666666666667,
+      "opportunity": 23.33333333333333,
+      "war_score": 44.1
+    },
+    {
+      "brand": "Slurrp Farm",
+      "activity": 30,
+      "diversity": 2,
+      "survival": 101.3,
+      "theme_diversity": 1,
+      "repetition": 100.0,
+      "opportunity": 0.0,
+      "war_score": 42.6
+    },
+    {
+      "brand": "OZiva",
+      "activity": 30,
+      "diversity": 1,
+      "survival": 77.46666666666667,
+      "theme_diversity": 4,
+      "repetition": 90.625,
+      "opportunity": 9.375,
+      "war_score": 37.8
+    },
+    {
+      "brand": "Pro360",
+      "activity": 6,
+      "diversity": 2,
+      "survival": 16.666666666666668,
+      "theme_diversity": 1,
+      "repetition": 100.0,
+      "opportunity": 0.0,
+      "war_score": 10.2
+    }
+  ],
+  "awards": [
+    {
+      "label": "Most Aggressive Advertiser",
+      "winner": "Power Gummies",
+      "why": "War Score 67.0"
+    },
+    {
+      "label": "Most Repetitive Messaging",
+      "winner": "Slurrp Farm",
+      "why": "100.0% concentration"
+    },
+    {
+      "label": "Best Survival Rate",
+      "winner": "Power Gummies",
+      "why": "886.0 average live days"
+    }
+  ]
+}
