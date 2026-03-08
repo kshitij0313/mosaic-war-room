@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.txt

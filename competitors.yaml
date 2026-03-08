@@ -1,0 +1,153 @@
+brands:
+  - brand: "Traya"
+    query: "Traya Health"
+    aliases: ["Traya"]
+    category: "Men's wellness"
+    why: "Direct overlap with Man Matters on hair-loss diagnosis, treatment plans, and regrowth-led performance marketing."
+  - brand: "Bold Care"
+    query: "Bold Care"
+    aliases: ["Boldcare"]
+    category: "Men's wellness"
+    why: "Competes in men's wellness with a confidence-led mix spanning performance, intimacy, and hair-related messaging."
+  - brand: "Mars by GHC"
+    query: "Mars by GHC"
+    aliases: ["Mars GHC", "GHC"]
+    category: "Men's wellness"
+    why: "Science-backed men's wellness positioning across hair, skin, performance, and supplements."
+  - brand: "ForMen Health"
+    query: "ForMen Health"
+    aliases: ["ForMen"]
+    category: "Men's wellness"
+    why: "Doctor-backed men's wellness brand with overlap in hair, sexual wellness, and consultation-led trust building."
+  - brand: "Wellversed"
+    query: "Wellversed"
+    aliases: ["Wellversed Health"]
+    category: "Men's wellness"
+    why: "Performance-and-supplement brand competing for male wellness attention and direct-response budget."
+  - brand: "HK Vitals"
+    query: "HK Vitals"
+    aliases: ["HealthKart Vitals", "HKVitals"]
+    category: "Men's wellness"
+    why: "Large supplement player with men’s health overlap on vitality, hair, and daily wellness claims."
+  - brand: "Neuherbs"
+    query: "Neuherbs"
+    aliases: ["Neuherbs Official"]
+    category: "Men's wellness"
+    why: "Supplement-led wellness brand competing for performance, energy, and everyday health narratives."
+  - brand: "Himalayan Organics"
+    query: "Himalayan Organics"
+    aliases: ["Himalayan Organics India"]
+    category: "Men's wellness"
+    why: "High-volume supplement brand overlapping on vitality, nutrition, and problem-solution wellness messaging."
+  - brand: "Carbamide Forte"
+    query: "Carbamide Forte"
+    aliases: ["Carbamide"]
+    category: "Men's wellness"
+    why: "Competes in supplements and daily health positioning with strong performance-marketing style creative."
+  - brand: "Pro360"
+    query: "Pro360"
+    aliases: ["Pro 360"]
+    category: "Men's wellness"
+    why: "Protein and active-nutrition brand competing for male wellness and performance mindshare."
+
+  - brand: "Sirona"
+    query: "Sirona"
+    aliases: ["The Sirona Hygiene"]
+    category: "Women's wellness"
+    why: "Women's personal wellness and intimate-care brand competing for health, hygiene, and credibility-led attention."
+  - brand: "Sanfe"
+    query: "Sanfe"
+    aliases: ["Sanfe India"]
+    category: "Women's wellness"
+    why: "Overlaps with Be Bodywise on acne, body care, intimate care, and confidence-driven creative."
+  - brand: "Nua"
+    query: "Nua Woman"
+    aliases: ["Nua", "Nua Women"]
+    category: "Women's wellness"
+    why: "Competes for women’s wellness attention through period care, intimate hygiene, and comfort-led communication."
+  - brand: "Power Gummies"
+    query: "Power Gummies"
+    aliases: ["Powergummies"]
+    category: "Women's wellness"
+    why: "Beauty-and-nutrition supplement brand with strong overlap on hair, skin, and ingestible wellness narratives."
+  - brand: "Gynoveda"
+    query: "Gynoveda"
+    aliases: ["Gynoveda Official"]
+    category: "Women's wellness"
+    why: "Women’s hormonal-health brand with strong overlap in PCOS, cycle, and expert-led positioning."
+  - brand: "OZiva"
+    query: "OZiva"
+    aliases: ["OZiva Nutrition"]
+    category: "Women's wellness"
+    why: "Supplement-led women’s wellness player overlapping on beauty, nutrition, and lifestyle-health claims."
+  - brand: "Kapiva"
+    query: "Kapiva"
+    aliases: ["Kapiva Ayurveda"]
+    category: "Women's wellness"
+    why: "Ayurveda-led wellness brand competing for hormonal, skin, and digestion-oriented health narratives."
+  - brand: "Pee Safe"
+    query: "Pee Safe"
+    aliases: ["Peesafe"]
+    category: "Women's wellness"
+    why: "Intimate and hygiene-led women’s wellness brand with a strong direct-response and education angle."
+  - brand: "Plush"
+    query: "Plush For Her"
+    aliases: ["Plush"]
+    category: "Women's wellness"
+    why: "Period and comfort-care brand competing for women’s hygiene, trust, and monthly routine mindshare."
+  - brand: "The Woman's Company"
+    query: "The Woman's Company"
+    aliases: ["Womans Company", "TWC"]
+    category: "Women's wellness"
+    why: "Women-focused hygiene and period-care brand competing on comfort, trust, and product education."
+
+  - brand: "Mother Sparsh"
+    query: "Mother Sparsh"
+    aliases: ["MotherSparsh"]
+    category: "Baby care"
+    why: "Parent-trust-led baby care brand overlapping with Little Joys on kid-safe, mom-approved care messaging."
+  - brand: "The Moms Co."
+    query: "The Moms Co"
+    aliases: ["The Moms Co.", "Moms Co"]
+    category: "Baby care"
+    why: "Strong baby-care and maternal-care player with soft-trust branding and overlapping parental decision moments."
+  - brand: "BabyOrgano"
+    query: "BabyOrgano"
+    aliases: ["Baby Organo"]
+    category: "Baby care"
+    why: "Kids wellness and nutrition brand with overlap on gummies, immunity, and mom-friendly reassurance-led positioning."
+  - brand: "Slurrp Farm"
+    query: "Slurrp Farm"
+    aliases: ["Slurrpfarm"]
+    category: "Baby care"
+    why: "Kids nutrition and better-for-you food brand competing for parent trust, daily routines, and child wellness attention."
+  - brand: "Softsens Baby"
+    query: "Softsens Baby"
+    aliases: ["Softsens"]
+    category: "Baby care"
+    why: "Baby skin-care brand competing for soft-trust, sensitive-skin, and premium-care messaging."
+  - brand: "Himalaya BabyCare"
+    query: "Himalaya BabyCare"
+    aliases: ["Himalaya Babycare", "Himalaya Baby Care"]
+    category: "Baby care"
+    why: "Established baby-care brand with wide distribution and overlap in rash, skin, and trust-led creative."
+  - brand: "Chicco India"
+    query: "Chicco India"
+    aliases: ["Chicco"]
+    category: "Baby care"
+    why: "Premium baby-care and parenting brand competing on trust, product safety, and baby routine categories."
+  - brand: "Sebamed India"
+    query: "Sebamed India"
+    aliases: ["Sebamed Baby", "Sebamed"]
+    category: "Baby care"
+    why: "Dermatology-led baby skin-care player competing through sensitive-skin and expert-backed positioning."
+  - brand: "Johnson's Baby India"
+    query: "Johnson's Baby India"
+    aliases: ["Johnsons Baby", "Johnson Baby India"]
+    category: "Baby care"
+    why: "Massive baby-care incumbent with strong parent-trust branding and constant creative presence."
+  - brand: "Mamaearth Baby"
+    query: "Mamaearth Baby"
+    aliases: ["Mamaearth", "Mamaearth Baby Care"]
+    category: "Baby care"
+    why: "Strong D2C presence in baby care with natural-ingredient and safety-led narratives that overlap with parent trust moments."
